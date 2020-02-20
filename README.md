@@ -9,7 +9,7 @@ Provides an extensible framework design around ease of use to remove much of the
 ## Usage
 Checkout the wiki for usage.
 
-https://github.com/trapize/secrets-management.wiki.git
+https://github.com/trapize/core/wiki
 
 ## MIT
 
