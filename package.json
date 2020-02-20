@@ -1,6 +1,6 @@
 {
   "name": "@trapize/secrets-management",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "build": "gulp clean && gulp"
   },
   "author": "ztrank",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^13.7.1",
     "gulp": "^4.0.0",
